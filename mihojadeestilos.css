@@ -1,0 +1,61 @@
+
+#principal { 
+        front-size: 16px;
+        min-height: 4o.62cm;
+        background-color:#FBABAB;
+        background-image: url(imagenes/flor.jpg) ;
+   
+}
+article{
+          background-image: url(imagenes/tabla.jpg); 
+          float: left;
+          height: 400px;
+          margin-top: 200px;
+           padding-top: 20px;
+          padding-left: 50px;
+          padding-bottom: 50px;
+}
+
+#sub{
+          
+          font-size: 70px;
+           text-align: center;
+}
+
+#subt{
+           font-size: 45px;
+           text-align: center;
+        
+}
+#titulo{
+     font-size: 80px;
+     font-family: Impact;
+     text-align: center;
+
+}
+figure img{
+     padding: 90px;
+     
+     
+}
+#cabeceraweb{
+     background-image: url(imagenes/fon.jpg); 
+     padding-top: 20px;
+}
+ li{
+    display: inline;
+     font-size: 50px;
+      margin-left: 250px;
+}
+p{
+   font-size: 30px;
+   font-family:  Arial;
+}
+ footer{
+         font-size: 30px;
+         background-image: url(imagenes/fon.jpg); 
+          text-align: center;
+}
+
+        
+  

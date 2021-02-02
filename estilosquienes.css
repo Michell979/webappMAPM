@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;	
+}
+
+body{
+        background-image: url(imagenes/fondo2.jpg) ;	
+}
+
+ li{
+    display: inline;
+    font-size: 30px;
+     margin-left: 50px;
+     font-family: Impact;
+
+}
+#contenedor {
+	width: 960px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+	border-radius: 20px;
+	overflow: hidden;
+    
+}
+header {
+	height: 150px;
+	  background-image: url(imagenes/cabecera2.jpg) ;
+}
+header h1{
+	font-size: 50px;
+	text-align: center;
+	line-height: 150px;
+}
+nav {
+                   background-image: url(imagenes/nav2.jpg) ;
+	height: 60px;
+}
+nav h2 {
+	font-size: 30px;
+	text-align: center;
+	line-height: 70px;
+}
+#contenido {
+	width: 700px;
+	height: 500px;
+	float: left;
+	 background-image: url(imagenes/contenido.jpg) ;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#contenido h2 {
+	font-size: 40px;
+	text-align: center;
+	line-height: 80px;
+	margin: 0px;
+}
+
+#contenido article {
+	font-size: 25px;
+	text-align: left;
+	line-height: 80px;
+	margin: 0px;
+
+}
+aside {
+	width: 250px;
+	height: 500px;
+	 background-image: url(imagenes/contenido.jpg) ;
+	margin-top: 10px;
+	float: right;
+}
+aside h2 {
+	font-size: 20px;
+	text-align: center;
+	line-height: 60px;
+                     background-image: url(imagenes/contenido.jpg) ;
+}
+footer {
+	background: #C8FC92;
+	clear: both;
+                    background-image: url(imagenes/cabecera2.jpg) ;
+}
+footer h2 {
+	font-size: 30px;
+	text-align: center;
+	padding: 20px;
+	font-style: italic;
+}
+#aqui{
+              text-align: center;
+              margin-top:0px;
+}
+
+#mision{
+         background-image: url(imagenes/mision.jpg) ;
+         font-style: italic;
+         font-size: 20px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+       line-height: 20px;          
+}
+#vision{
+         background-image: url(imagenes/mision.jpg) ;
+         font-style: italic;
+         font-size: 20px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+       line-height: 20px;          
+}
+
